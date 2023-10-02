@@ -1,0 +1,15 @@
+{
+    "IniciarSesion": "로그인",
+    "SistemaGestionAcademico": "학사 관리 시스템",
+    "ContrasenaUsuarioNoCoinciden": "비밀번호 / 사용자 이름이 일치하지 않습니다.",
+    "CuentaInactiva": "귀하의 계정은 비활성화되었습니다.",
+    "LleneCamposVacios": "빈 필드를 채우십시오.",
+    "ContacteAdministrador": "관리자에게 문의하십시오.",
+    "Usuario": "사용자 이름",
+    "Contrasena": "비밀번호",
+    "Seleccione": "선택",
+    "Administrador": "관리자",
+    "Docente": "강사",
+    "Alumno": "학생",
+    "Ingresar": "로그인"
+}

@@ -1,0 +1,20 @@
+{
+    "IniciarSesion": "Iniciar Sesión",
+    "SistemaGestionAcademico": "Sistema de Gestión Académico",
+    "ContrasenaUsuarioNoCoinciden": "Contraseña/usuario no coinciden.",
+    "CuentaInactiva": "Su cuenta está inactiva.",
+    "LleneCamposVacios": "Llene los campos vacíos.",
+    "ContacteAdministrador": "Contacte con el administrador.",
+    "Usuario": "Usuario",
+    "Contrasena": "Contraseña",
+    "Seleccione": "Seleccione",
+    "Administrador": "Administrador",
+    "Docente": "Docente",
+    "Alumno": "Alumno",
+    "Ingresar": "Ingresar",
+
+    "BienvenidoAlContenidoDeMatriculas": "Bienvenido Al Contenido De Matriculas",
+    "IngreseDatosABuscar": "Ingrese Datos A Buscar",
+    "NuevaMatricula": "Nueva Matricula"
+}
+

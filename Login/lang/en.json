@@ -1,0 +1,20 @@
+{
+    "IniciarSesion": "Login",
+    "SistemaGestionAcademico": "Academic Management System",
+    "ContrasenaUsuarioNoCoinciden": "Password/username do not match.",
+    "CuentaInactiva": "Your account is inactive.",
+    "LleneCamposVacios": "Fill in the empty fields.",
+    "ContacteAdministrador": "Contact the administrator.",
+    "Usuario": "Username",
+    "Contrasena": "Password",
+    "Seleccione": "Select",
+    "Administrador": "Administrator",
+    "Docente": "Teacher",
+    "Alumno": "Student",
+    "Ingresar": "Log In",
+
+    "BienvenidoAlContenidoDeMatriculas": "Welcome to Enrollment Content",
+    "IngreseDatosABuscar": "Enter Data Search",
+    "NuevaMatricula": "New Enrollment"
+}
+

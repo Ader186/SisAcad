@@ -1,0 +1,6 @@
+projectKey=laravel-SisAcade
+serverUrl=http://localhost:9000
+serverVersion=9.8.0.63668
+dashboardUrl=http://localhost:9000/dashboard?id=laravel-SisAcade
+ceTaskId=AYrdR5zMWVsMMw_GsGXW
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYrdR5zMWVsMMw_GsGXW

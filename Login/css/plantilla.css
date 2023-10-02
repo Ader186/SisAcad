@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../img/bg.jpeg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+  }
+  
+  fieldset, .contenido {
+    width: 350px;
+    height: 600px;
+    background: #fff;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 7px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Aplicar sombreado */
+  }
+  
+  input, select {
+    display: block;
+    border: none;
+    margin: 20px 20px;
+    width: 270px;
+    background-color: #eaeaea;
+    padding: 8px 0;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 4px;
+    border: 1px solid #1abb9c;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  legend {
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #777;
+  }
+  
+  p {
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: #5bc0de;
+  }
+  
+  input[type="submit"] {
+    background-color: #1abb9c;
+    color: white;
+    cursor: pointer;
+  }
+  
+
+  input[type="submit"]:hover {
+    background-color: #1abb9c; /* Cambiar a rojo */
+    color: rgb(0, 0, 0); /* Cambiar el color del texto a blanco */
+  }
+
+  select{
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  option{
+    font-size: 15px;
+  }
+   .user-wrapper{
+    top: 0%;
+
+   }
+
+  .alert {
+    font-family: Helvetica, sans-serif;
+    padding: 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin: 20px 20px;
+    width: 270px;
+    padding: 8px 0;
+    text-align: 18px;
+    font-size: 18px;
+    border-radius: 4px;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .alert-info {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+    
+  }
+  
+  .alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    font-size: 14px;
+    justify-content: center;
+    
+  }
+  
+  .select2-container .select2-selection--single {
+    display: block;
+    border: none;
+    margin: 20px;
+    width: 270px;
+    background-color: #eaeaea;
+    padding: 8px 0;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 4px;
+    border: 1px solid #1abb9c;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 34px;
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    width: 20px;
+  }
+  

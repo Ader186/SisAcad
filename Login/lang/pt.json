@@ -1,0 +1,15 @@
+{
+    "IniciarSesion": "Iniciar sessão",
+    "SistemaGestionAcademico": "Sistema de Gestão Acadêmica",
+    "ContrasenaUsuarioNoCoinciden": "Senha/usuário não correspondem.",
+    "CuentaInactiva": "Sua conta está inativa.",
+    "LleneCamposVacios": "Preencha os campos vazios.",
+    "ContacteAdministrador": "Entre em contato com o administrador.",
+    "Usuario": "Nome de usuário",
+    "Contrasena": "Senha",
+    "Seleccione": "Selecione",
+    "Administrador": "Administrador",
+    "Docente": "Professor",
+    "Alumno": "Aluno",
+    "Ingresar": "Entrar"
+}
